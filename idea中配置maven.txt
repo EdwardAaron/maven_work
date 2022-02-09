@@ -1,0 +1,1 @@
+File->setting:搜做maven，按照提示设置

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dependency_manager/child1/child1.iml" filepath="$PROJECT_DIR$/dependency_manager/child1/child1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependency_manager/dependency_manager.iml" filepath="$PROJECT_DIR$/dependency_manager/dependency_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin_manager/greeting-maven-plugin/greetingmavenplugin.iml" filepath="$PROJECT_DIR$/plugin_manager/greeting-maven-plugin/greetingmavenplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloFriend/helloFriend.iml" filepath="$PROJECT_DIR$/helloFriend/helloFriend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello_web/hello_web.iml" filepath="$PROJECT_DIR$/hello_web/hello_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin_manager/plugin_manager.iml" filepath="$PROJECT_DIR$/plugin_manager/plugin_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin_manager/use-greetingPlugin/usegreetingPlugin.iml" filepath="$PROJECT_DIR$/plugin_manager/use-greetingPlugin/usegreetingPlugin.iml" />
+    </modules>
+  </component>
+</project>

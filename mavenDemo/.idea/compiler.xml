@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="child1" />
+        <module name="greetingmavenplugin" />
+        <module name="hello" />
+        <module name="hello_web" />
+        <module name="helloFriend" />
+        <module name="usegreetingPlugin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="child1" target="1.5" />
+      <module name="dependency_manager" target="1.5" />
+      <module name="greetingmavenplugin" target="1.5" />
+      <module name="hello" target="1.5" />
+      <module name="hello_web" target="1.5" />
+      <module name="helloFriend" target="1.5" />
+      <module name="plugin_manager" target="1.5" />
+      <module name="usegreetingPlugin" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

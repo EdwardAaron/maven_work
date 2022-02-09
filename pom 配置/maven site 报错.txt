@@ -1,0 +1,6 @@
+不要使用默认的设置，在pom <build><plugins>标签下，添加如下代码
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-site-plugin</artifactId>
+    <version> 3.8.2</version>
+</plugin>

@@ -1,0 +1,2 @@
+1 打开maven安装目录\conf\setting.xml文件
+2 修改 <localRepository>本地仓库目录</localRepository>

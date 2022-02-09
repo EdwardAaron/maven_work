@@ -1,0 +1,2 @@
+配置conf目录下的setting.xml文件
+<localRepository>D:\repository\maven</localRepository>
